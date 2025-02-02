@@ -2,7 +2,7 @@ from pygame import *
 from random import randint
 from time import time as timer
 
-
+/
 
 mixer.init()
 mixer.music.load('fon.mp3')
